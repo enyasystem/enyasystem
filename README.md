@@ -6,14 +6,12 @@
 
 ### 🚀 Who am I?
 
-I'm a tech enthusiast | full stack developer. With a Bachelor's degree in **Computer Science** and hands-on experience in **web development** and **SEO**, I’m always up for solving challenges through code.
+I'm a tech enthusiast | full stack developer. Bsc. **Computer Science**
 
-When it comes to **technology**, I’m passionate about:
+I’m passionate about:
 - 🔧 **Creating impactful web applications**
 - 🖼️ **Optimizing user experiences**
 - ⚙️ **Building scalable backend systems**
-
-I’m constantly exploring **cutting-edge technologies** to stay ahead in the fast-moving tech world. If you’re as excited about tech as I am, then we’re definitely on the same wavelength!
 
 ---
 
@@ -36,13 +34,23 @@ I believe in the power of **collaboration**. Let's build something great, togeth
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-%23000000.svg?style=for-the-badge&logo=google&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Server Configuration](https://img.shields.io/badge/Server_Configuration-%234e8cff.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Debugging](https://img.shields.io/badge/Debugging-%23FF6347.svg?style=for-the-badge&logo=bug&logoColor=white)
+![Research](https://img.shields.io/badge/Research-%231D70B8.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)
+![Google Docs](https://img.shields.io/badge/Google_Docs-%2334A853.svg?style=for-the-badge&logo=googledocs&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-%2300729F.svg?style=for-the-badge&logo=coreldraw&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-%23FF4500.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Malware Removal](https://img.shields.io/badge/Malware_Removal-%23FF0000.svg?style=for-the-badge&logo=shield&logoColor=white)
+
 
 ---
 
 ### 💻 What I'm Working On
 
 - **Building a Telegram Mini App**: A feature-rich betting platform with deposit, withdrawal, and reward system functionalities.
-- **Open Source Contributions**: I regularly contribute to projects that focus on building scalable applications.
 - **Professional UX/UI Design**: Enhancing my skills in creating seamless, user-friendly interfaces.
 
 ---
@@ -59,25 +67,26 @@ I believe in the power of **collaboration**. Let's build something great, togeth
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://elvisenya.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elvis-enya)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/elvisenya)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elvis-enya)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enyaelvis@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/enyasystem)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enyasystem)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enyaelvis@gmail.com)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Elvis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Elvis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enyasystem&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enyasystem&layout=compact&theme=radical)
 
 ---
 
 ### 👨‍💻 My Projects
 
-- **BJ KLINS Website**: [Repo Link](#)
-- **Money Contribution Platform**: [Repo Link](#)
-- **Betting Telegram Bot**: [Repo Link](#)
+- **BJ KLINS Website**: [(https://github.com/enyasystem/BJI-KLINS)] (#)
+- **Betting Telegram Bot**: [(https://github.com/enyasystem/luckyAiBet)] (#)
 
 ---
 
 Feel free to explore my repositories and connect with me on my journey to build amazing things with code!
+
+### Thank you
