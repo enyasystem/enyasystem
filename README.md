@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm **Elvis Enya** 
+# 👋 Hello, World! I'm **Enya Elvis** 
 
 ### 🧑‍💻 **Full Stack Developer | Tech Explorer | Problem Solver**
 
@@ -80,7 +80,7 @@ I believe in the power of **collaboration**. Let's build something great, togeth
 ### 💬 Let's Connect!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://elvisenya.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elvis-enya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enya-elvis-723177114/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/enyasystem)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enyasystem)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enyaelvis@gmail.com)
