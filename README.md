@@ -33,17 +33,31 @@ I believe in the power of **collaboration**. Let's build something great, togeth
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-%23000000.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Server Configuration](https://img.shields.io/badge/Server_Configuration-%234e8cff.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Debugging](https://img.shields.io/badge/Debugging-%23FF6347.svg?style=for-the-badge&logo=bug&logoColor=white)
 ![Research](https://img.shields.io/badge/Research-%231D70B8.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)
-![Google Docs](https://img.shields.io/badge/Google_Docs-%2334A853.svg?style=for-the-badge&logo=googledocs&logoColor=white)
 ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-%2300729F.svg?style=for-the-badge&logo=coreldraw&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-%23FF4500.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Malware Removal](https://img.shields.io/badge/Malware_Removal-%23FF0000.svg?style=for-the-badge&logo=shield&logoColor=white)
+
+<!-- Google Docs Tools -->
+![Google Docs](https://img.shields.io/badge/Google_Docs-%2334A853.svg?style=for-the-badge&logo=googledocs&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-%234285F4.svg?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Google Slides](https://img.shields.io/badge/Google_Slides-%23F4B400.svg?style=for-the-badge&logo=googleslides&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google_Drive-%234285F4.svg?style=for-the-badge&logo=googledrive&logoColor=white)
+![Google Forms](https://img.shields.io/badge/Google_Forms-%234285F4.svg?style=for-the-badge&logo=googleforms&logoColor=white)
+![Google Keep](https://img.shields.io/badge/Google_Keep-%23FFBB00.svg?style=for-the-badge&logo=googlekeep&logoColor=white)
+
+![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![Project Management](https://img.shields.io/badge/Project_Management-%23008B8B.svg?style=for-the-badge&logo=project&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web_Development-%2300C4FF.svg?style=for-the-badge&logo=web-development&logoColor=white)
+![UX/UI](https://img.shields.io/badge/UX/UI-%23FFA500.svg?style=for-the-badge&logo=user-experience&logoColor=white)
 
 
 ---
