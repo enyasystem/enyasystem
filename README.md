@@ -96,8 +96,8 @@ I believe in the power of **collaboration**. Let's build something great, togeth
 
 ### 👨‍💻 My Projects
 
-- **Bulk SMS Sender**: (https://github.com/enyasystem/bulk-sms-sender)
-- **Budget App**: (https://github.com/enyasystem/buddget-app)
+- **Bulk SMS Sender**: (https://github.com/enyasystem/bulk-sms-sender) https://bulk-sms-sender-nine.vercel.app
+- **Budget App**: (https://github.com/enyasystem/buddget-app) - https://buddget-k8nmtxw5k-enyasystems-projects.vercel.app
 
 ---
 
