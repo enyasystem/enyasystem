@@ -96,8 +96,8 @@ I believe in the power of **collaboration**. Let's build something great, togeth
 
 ### 👨‍💻 My Projects
 
-- **BJ KLINS Website**: [(https://github.com/enyasystem/BJI-KLINS)] (#)
-- **Betting Telegram Bot**: [(https://github.com/enyasystem/luckyAiBet)] (#)
+- **Bulk SMS Sender**: (https://github.com/enyasystem/bulk-sms-sender)
+- **Budget App**: (https://github.com/enyasystem/buddget-app)
 
 ---
 
