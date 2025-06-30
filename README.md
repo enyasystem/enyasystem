@@ -1,106 +1,97 @@
-# 👋 Hello, World! I'm **Enya Elvis** 
+<h1 align="center">👋 Hi there, I'm <span style="color:#FFA500;">Enya Elvis</span> — aka <strong>enyasystem</strong> 🚀</h1>
 
-### 🧑‍💻 **Full Stack Developer | Tech Explorer | Problem Solver**
-
----
-
-### 🚀 Who am I?
-
-I'm a tech enthusiast | full stack developer. Bsc. **Computer Science**
-
-I’m passionate about:
-- 🔧 **Creating impactful web applications**
-- 🖼️ **Optimizing user experiences**
-- ⚙️ **Building scalable backend systems**
+<p align="center">
+  <strong>Full Stack Web Developer | Backend Engineer | Tech Explorer | ALX Backend ProDev Learner</strong>
+</p>
 
 ---
 
-### 🌟 My Motto:
-> **"If you want to go fast, go alone. If you want to go far, go together."** – African Proverb
+### 🌍 About Me
 
-I believe in the power of **collaboration**. Let's build something great, together.
+I'm a passionate Full Stack Developer with a BSc in **Computer Science** and a proud learner in the **ALX Software Engineering Backend ProDev Program**.
 
----
+I got into software engineering because **I believe technology is a powerful tool to create opportunities, automate problems, and give life to ideas**. My journey has been about **constant growth**, and I enjoy every bit of building, breaking, and fixing things with code.
 
-### 🛠️ Technologies & Tools
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-%23000000.svg?style=for-the-badge&logo=google&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Server Configuration](https://img.shields.io/badge/Server_Configuration-%234e8cff.svg?style=for-the-badge&logo=linux&logoColor=white)
-![Debugging](https://img.shields.io/badge/Debugging-%23FF6347.svg?style=for-the-badge&logo=bug&logoColor=white)
-![Research](https://img.shields.io/badge/Research-%231D70B8.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)
-![CorelDRAW](https://img.shields.io/badge/CorelDRAW-%2300729F.svg?style=for-the-badge&logo=coreldraw&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-%23FF4500.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Malware Removal](https://img.shields.io/badge/Malware_Removal-%23FF0000.svg?style=for-the-badge&logo=shield&logoColor=white)
-
-<!-- Google Docs Tools -->
-![Google Docs](https://img.shields.io/badge/Google_Docs-%2334A853.svg?style=for-the-badge&logo=googledocs&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-%234285F4.svg?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Google Slides](https://img.shields.io/badge/Google_Slides-%23F4B400.svg?style=for-the-badge&logo=googleslides&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google_Drive-%234285F4.svg?style=for-the-badge&logo=googledrive&logoColor=white)
-![Google Forms](https://img.shields.io/badge/Google_Forms-%234285F4.svg?style=for-the-badge&logo=googleforms&logoColor=white)
-![Google Keep](https://img.shields.io/badge/Google_Keep-%23FFBB00.svg?style=for-the-badge&logo=googlekeep&logoColor=white)
-
-![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-![Project Management](https://img.shields.io/badge/Project_Management-%23008B8B.svg?style=for-the-badge&logo=project&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web_Development-%2300C4FF.svg?style=for-the-badge&logo=web-development&logoColor=white)
-![UX/UI](https://img.shields.io/badge/UX/UI-%23FFA500.svg?style=for-the-badge&logo=user-experience&logoColor=white)
-
+💡 My vision is to become a **world-class backend engineer**, building **secure**, **scalable**, and **impactful systems** that touch lives across Africa and beyond.
 
 ---
 
-### 💻 What I'm Working On
+### 💡 What Inspires Me
 
-- **Building a Telegram Mini App**: A feature-rich betting platform with deposit, withdrawal, and reward system functionalities.
-- **Professional UX/UI Design**: Enhancing my skills in creating seamless, user-friendly interfaces.
+> *"If you want to go fast, go alone. If you want to go far, go together."*  
+> — African Proverb
 
----
-
-### 🌱 Currently Learning
-- 📚 **Advanced UI/UX Design**
-- 📚 **Node.js & Express.js**
-- 📚 **React.js**
-- ☁️ **Cloud Deployment with AWS**
+I'm inspired by **collaboration**, **problem-solving**, and the thrill of turning ideas into real-world solutions.
 
 ---
 
-### 💬 Let's Connect!
+### 🛠️ Tech Stack & Tools
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://elvisenya.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enya-elvis-723177114/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/enyasystem)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enyasystem)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enyaelvis@gmail.com)
-
----
-
-### 📊 GitHub Stats
-
-![Elvis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enyasystem&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enyasystem&layout=compact&theme=radical)
-
----
-
-### 👨‍💻 My Projects
-
-- **Bulk SMS Sender**: (https://github.com/enyasystem/bulk-sms-sender) https://bulk-sms-sender-nine.vercel.app
-- **Budget App**: (https://github.com/enyasystem/buddget-app) - https://buddget-k8nmtxw5k-enyasystems-projects.vercel.app
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SEO-%23000000.svg?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white"/>
+</p>
 
 ---
 
-Feel free to explore my repositories and connect with me on my journey to build amazing things with code!
+### 🚀 What I'm Working On
 
-### Thank you
+- 🎯 **Telegram Mini App** — a modern betting platform with deposits, withdrawals, and rewards.
+- 🎨 Learning UI/UX Design for modern frontend builds.
+- 📈 Collaborating on ALX Backend projects and growing my technical architecture skills.
+
+---
+
+### 📚 Currently Exploring
+
+- ✅ Advanced UI/UX Design
+- ✅ Node.js & Express.js
+- ✅ React.js
+- ✅ AWS Cloud Deployment
+- ✅ CI/CD Pipelines
+
+---
+
+### 🌍 Let's Connect
+
+<p align="center">
+  <a href="https://elvisenya.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/enya-elvis-723177114/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/enyasystem" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://github.com/enyasystem" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:enyaelvis@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enyasystem&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enyasystem&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+### 🧩 Featured Projects
+
+| Project | Description | Live Demo |
+|--------|-------------|------------|
+| [Bulk SMS Sender](https://github.com/enyasystem/bulk-sms-sender) | A modern bulk messaging app for web | [Launch ↗](https://bulk-sms-sender-nine.vercel.app) |
+| [Budget App](https://github.com/enyasystem/buddget-app) | An intuitive budget planner app | [Launch ↗](https://buddget-k8nmtxw5k-enyasystems-projects.vercel.app) |
+| RSN NEWS]([https://github.com/enyasystem/r](https://github.com/enyasystem/rsn-news)) | Get News Headlines in Nigeria | [Launch ↗](https://rsnewsng.com/)) |
+
+---
+
+### 🙌 Thanks for Visiting!
+
+> ⚡ *Feel free to explore my repos, give feedback, and reach out for collaborations.*
