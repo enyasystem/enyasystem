@@ -64,8 +64,8 @@ I'm inspired by **collaboration**, **problem-solving**, and the thrill of turnin
 ### 🌍 Let's Connect
 
 <p align="center">
-  <a href="https://elvisenya.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/enya-elvis-723177114/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://enya-elvis.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/enyaelvis" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/enyasystem" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://github.com/enyasystem" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:enyaelvis@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -86,9 +86,10 @@ I'm inspired by **collaboration**, **problem-solving**, and the thrill of turnin
 
 | Project | Description | Live Demo |
 |--------|-------------|------------|
-| [Bulk SMS Sender](https://github.com/enyasystem/bulk-sms-sender) | A modern bulk messaging app for web | [Launch ↗](https://bulk-sms-sender-nine.vercel.app) |
-| [Budget App](https://github.com/enyasystem/buddget-app) | An intuitive budget planner app | [Launch ↗](https://buddget-k8nmtxw5k-enyasystems-projects.vercel.app) |
 | RSN NEWS]([https://github.com/enyasystem/r](https://github.com/enyasystem/rsn-news)) | Get News Headlines in Nigeria | [Launch ↗](https://rsnewsng.com/)) |
+| [Bulk SMS Sender](https://github.com/enyasystem/bulk-sms-sender) | A modern bulk messaging app for web | [Launch ↗](https://bulk-sms-sender-nine.vercel.app) |
+| [Budget App](https://github.com/enyasystem/buddget-app) | An intuitive budget planner app | [Launch ↗](https://buddget-app.vercel.app/)) |
+
 
 ---
 
