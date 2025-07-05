@@ -62,56 +62,74 @@
 ### 🧠 Skills Matrix
 
 
-<table align="center">
-  <tr>
-    <th>Skill</th>
-    <th>Proficiency</th>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/> JavaScript</td>
-    <td><img src="https://img.shields.io/badge/5%20stars-FFD700?style=flat&logo=star&logoColor=FFD700" alt="5 stars"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" title="Node.js"/> Node.js</td>
-    <td><img src="https://img.shields.io/badge/5%20stars-FFD700?style=flat&logo=star&logoColor=FFD700" alt="5 stars"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React.js"/> React.js</td>
-    <td><img src="https://img.shields.io/badge/4%20stars-FFD700?style=flat&logo=star&logoColor=FFD700" alt="4 stars"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" title="PHP"/> PHP</td>
-    <td><img src="https://img.shields.io/badge/4%20stars-FFD700?style=flat&logo=star&logoColor=FFD700" alt="4 stars"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" title="MySQL"/> MySQL</td>
-    <td><img src="https://img.shields.io/badge/4%20stars-FFD700?style=flat&logo=star&logoColor=FFD700" alt="4 stars"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30" title="AWS"/> AWS</td>
-    <td><img src="https://img.shields.io/badge/3%20stars-FFD700?style=flat&logo=star&logoColor=FFD700" alt="3 stars"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" title="UI/UX Design"/> UI/UX Design</td>
-    <td><img src="https://img.shields.io/badge/3%20stars-FFD700?style=flat&logo=star&logoColor=FFD700" alt="3 stars"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30" title="Bash"/> Bash</td>
-    <td><img src="https://img.shields.io/badge/3%20stars-FFD700?style=flat&logo=star&logoColor=FFD700" alt="3 stars"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" title="SEO"/> SEO</td>
-    <td><img src="https://img.shields.io/badge/3%20stars-FFD700?style=flat&logo=star&logoColor=FFD700" alt="3 stars"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="30" title="WordPress"/> WordPress</td>
-    <td><img src="https://img.shields.io/badge/3%20stars-FFD700?style=flat&logo=star&logoColor=FFD700" alt="3 stars"/></td>
-  </tr>
-</table>
 
-<p align="center">
+<!-- Animated particles background using SVG (works in GitHub markdown) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/bg-particles.svg" width="100%"/>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/><br/>
+        <b>JavaScript</b><br/>
+        <span style="font-size:1.5em; color:#FFD700;">★ ★ ★ ★ ★</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/><br/>
+        <b>Node.js</b><br/>
+        <span style="font-size:1.5em; color:#FFD700;">★ ★ ★ ★ ★</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React.js"/><br/>
+        <b>React.js</b><br/>
+        <span style="font-size:1.5em; color:#FFD700;">★ ★ ★ ★</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/><br/>
+        <b>PHP</b><br/>
+        <span style="font-size:1.5em; color:#FFD700;">★ ★ ★ ★</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/><br/>
+        <b>MySQL</b><br/>
+        <span style="font-size:1.5em; color:#FFD700;">★ ★ ★ ★</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" title="AWS"/><br/>
+        <b>AWS</b><br/>
+        <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="UI/UX Design"/><br/>
+        <b>UI/UX Design</b><br/>
+        <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash"/><br/>
+        <b>Bash</b><br/>
+        <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" title="SEO"/><br/>
+        <b>SEO</b><br/>
+        <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" title="WordPress"/><br/>
+        <b>WordPress</b><br/>
+        <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+</div>
 
 ---
 
