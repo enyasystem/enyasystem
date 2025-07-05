@@ -96,6 +96,63 @@ I'm inspired by **collaboration**, **problem-solving**, and the thrill of turnin
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=enyasystem&theme=radical" alt="GitHub Trophies"/>
+</p>
+
+---
+
+### 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=enyasystem&theme=radical" alt="Contribution Graph"/>
+</p>
+
+---
+
+### 📌 Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/enyasystem/rsn-news">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enyasystem&repo=rsn-news&theme=radical" />
+  </a>
+  <a href="https://github.com/enyasystem/bulk-sms-sender">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enyasystem&repo=bulk-sms-sender&theme=radical" />
+  </a>
+  <a href="https://github.com/enyasystem/buddget-app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enyasystem&repo=buddget-app&theme=radical" />
+  </a>
+</p>
+
+---
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 🗺️ Visitor Map
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
+---
+
+### ☕ Support Me
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/enyasystem" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+</p>
+
+---
+
 ### 🧩 Featured Projects
 
 | Project | Preview | Description | Live Demo |
