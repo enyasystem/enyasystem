@@ -63,9 +63,10 @@
 
 
 
-<!-- Animated particles background using SVG (works in GitHub markdown) -->
+
+<!-- Animated particles background using SVG (GitHub markdown compatible) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/bg-particles.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/platane/particles/main/demo/github.svg" width="100%" alt="Animated Particles Background"/>
 </div>
 
 <div align="center">
@@ -99,6 +100,16 @@
     </tr>
     <tr>
       <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/><br/>
+        <b>Python</b><br/>
+        <span style="font-size:1.5em; color:#FFD700;">★ ★ ★ ★</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Shell Scripting"/><br/>
+        <b>Shell Scripting</b><br/>
+        <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
+      </td>
+      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" title="AWS"/><br/>
         <b>AWS</b><br/>
         <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
@@ -109,20 +120,25 @@
         <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash"/><br/>
-        <b>Bash</b><br/>
-        <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
-      </td>
-      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" title="SEO"/><br/>
         <b>SEO</b><br/>
         <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" title="WordPress"/><br/>
         <b>WordPress</b><br/>
         <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
       </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40" title="Domain Configuration"/><br/>
+        <b>Domain Config</b><br/>
+        <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
   </table>
 </div>
