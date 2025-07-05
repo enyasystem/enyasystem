@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">👋 Hi there, I'm <span style="color:#FFA500;">Enya Elvis</span> — aka <strong>enyasystem</strong> 🚀</h1>
 
 <p align="center">
@@ -21,7 +26,7 @@ I got into software engineering because **I believe technology is a powerful too
 > *"If you want to go fast, go alone. If you want to go far, go together."*  
 > — African Proverb
 
-I'm inspired by **collaboration**, **problem-solving**, and the thrill of turning ideas into real-world solutions.
+I'm inspired by **collaboration**, **problem-solving**, and the thrill of turning ideas into real-world solutions**.
 
 ---
 
@@ -84,15 +89,14 @@ I'm inspired by **collaboration**, **problem-solving**, and the thrill of turnin
 
 ### 🧩 Featured Projects
 
-| Project | Description | Live Demo |
-|--------|-------------|------------|
-| RSN NEWS]([https://github.com/enyasystem/r](https://github.com/enyasystem/rsn-news)) | Get News Headlines in Nigeria | [Launch ↗](https://rsnewsng.com/)) |
-| [Bulk SMS Sender](https://github.com/enyasystem/bulk-sms-sender) | A modern bulk messaging app for web | [Launch ↗](https://bulk-sms-sender-nine.vercel.app) |
-| [Budget App](https://github.com/enyasystem/buddget-app) | An intuitive budget planner app | [Launch ↗](https://buddget-app.vercel.app/)) |
-
+| Project | Preview | Description | Live Demo |
+|---------|---------|-------------|-----------|
+| [RSN NEWS](https://github.com/enyasystem/rsn-news) | <img src="https://rsnewsng.com" alt="RSN NEWS Preview" width="120"/> | Get News Headlines in Nigeria | [Launch ↗](https://rsnewsng.com/) |
+| [Bulk SMS Sender](https://github.com/enyasystem/bulk-sms-sender) | <img src="https://bulk-sms-sender-nine.vercel.app" alt="Bulk SMS Sender Preview" width="120"/> | A modern bulk messaging app for web | [Launch ↗](https://bulk-sms-sender-nine.vercel.app) |
+| [Budget App](https://github.com/enyasystem/buddget-app) | <img src="YOUR_BUDGET_APP_PREVIEW_URL" alt="Budget App Preview" width="120"/> | An intuitive budget planner app | [Launch ↗](https://buddget-app.vercel.app/) |
 
 ---
 
-### 🙌 Thanks for Visiting!
+### 🙌 Thanks for Visiting
 
 > ⚡ *Feel free to explore my repos, give feedback, and reach out for collaborations.*
