@@ -10,7 +10,75 @@
 
 ---
 
-### 🌍 About Me
+### � Certifications & Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-yellow?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ALX%20Graduate-blueviolet?style=for-the-badge&logo=alx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coursera%20Certified-Data%20Science-blue?style=for-the-badge&logo=coursera&logoColor=white"/>
+  <!-- Add more badges as needed -->
+</p>
+
+---
+
+### 📄 Download My Resume
+
+<p align="center">
+  <a href="https://enya-elvis.vercel.app/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-orange?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume"/>
+  </a>
+</p>
+
+---
+
+### 📰 Tech Blog & Newsletter
+
+<p align="center">
+  <a href="https://enya-elvis.vercel.app/blog" target="_blank">
+    <img src="https://img.shields.io/badge/Read%20My%20Blog-1DA1F2?style=for-the-badge&logo=hashnode&logoColor=white" alt="Read My Blog"/>
+  </a>
+  <a href="https://enya-elvis.vercel.app/newsletter" target="_blank">
+    <img src="https://img.shields.io/badge/Subscribe%20to%20Newsletter-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" alt="Subscribe to Newsletter"/>
+  </a>
+</p>
+
+---
+
+### 🗓️ Project Timeline / Roadmap
+
+<details>
+  <summary>Click to expand</summary>
+  <ul>
+    <li>2022: Started ALX Software Engineering Program</li>
+    <li>2023: Built RSN NEWS and Bulk SMS Sender</li>
+    <li>2024: Launched Budget App, completed AWS Certification</li>
+    <li>2025: Working on Telegram Mini App, exploring advanced UI/UX</li>
+    <!-- Add more milestones as needed -->
+  </ul>
+</details>
+
+---
+
+### 🧠 Skills Matrix
+
+| Skill         | Proficiency |
+|-------------- |:-----------:|
+| JavaScript    |   ⭐⭐⭐⭐⭐    |
+| Node.js       |   ⭐⭐⭐⭐⭐    |
+| React.js      |   ⭐⭐⭐⭐     |
+| PHP           |   ⭐⭐⭐⭐     |
+| MySQL         |   ⭐⭐⭐⭐     |
+| AWS           |   ⭐⭐⭐      |
+| UI/UX Design  |   ⭐⭐⭐      |
+| Bash          |   ⭐⭐⭐      |
+| SEO           |   ⭐⭐⭐      |
+| WordPress     |   ⭐⭐⭐      |
+
+---
+
+---
+
+### �🌍 About Me
 
 I'm a passionate Full Stack Developer with a BSc in **Computer Science** and a proud learner in the **ALX Software Engineering Backend ProDev Program**.
 
@@ -138,7 +206,7 @@ I'm inspired by **collaboration**, **problem-solving**, and the thrill of turnin
 ### 🗺️ Visitor Map
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=enyasystem&theme=default" alt="Contribution Graph"/>
 </p>
 
 ---
