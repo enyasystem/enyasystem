@@ -151,7 +151,7 @@
 
 ---
 
-### �🌍 About Me
+### 🌍 About Me
 
 I'm a passionate Full Stack Developer with a BSc in **Computer Science** and a proud learner in the **ALX Software Engineering Backend ProDev Program**.
 
@@ -236,12 +236,6 @@ I'm inspired by **collaboration**, **problem-solving**, and the thrill of turnin
 </p>
 
 ---
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=enyasystem&theme=radical" alt="GitHub Trophies"/>
-</p>
 
 ---
 
