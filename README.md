@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://enyasystem.github.io/banner/Enya_Elvis-banner.png" alt="Banner" width="100%" height="180px" style="object-fit:cover;" />
+  <img src="https://enyasystem.github.io/banner/Enya_Elvis-banner.png" alt="Banner" width="100%" height="200px" style="object-fit:cover;" />
 </p>
 
 <h1 align="center">👋 Hello, I'm <span style="color:#FFA500;">Enya Elvis</span> 🚀</h1>
