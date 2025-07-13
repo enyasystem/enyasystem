@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-6cd0-620a-9a15-19394ba714fd/raw?se=2025-07-05T06%3A56%3A44Z&sp=r&sv=2024-08-04&sr=b&scid=5f4cafdd-65c2-5c13-84ea-6c492833d90f&skoid=76024c37-11e2-4c92-aa07-7e519fbe2d0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-05T05%3A56%3A01Z&ske=2025-07-06T05%3A56%3A01Z&sks=b&skv=2024-08-04&sig=6SJIsN%2Bb6zhYkI01YihUpxYxnV9KQdvdqM8Yq/CIgh4%3D" alt="Banner" width="100%" height="180px" style="object-fit:cover;" />
+  <img src="https://enyasystem.github.io/banner/Enya_Elvis-banner.png alt="Banner" width="100%" height="180px" style="object-fit:cover;" />
 </p>
 
-<h1 align="center">👋 Hi there, I'm <span style="color:#FFA500;">Enya Elvis</span> — aka <strong>enyasystem</strong> 🚀</h1>
+<h1 align="center">👋 Hello, I'm <span style="color:#FFA500;">Enya Elvis</span> 🚀</h1>
 
 <p align="center">
   <strong>Full Stack Web Developer | Backend Engineer | Tech Explorer | ALX Backend ProDev Learner</strong>
