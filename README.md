@@ -3,7 +3,7 @@
 
 </p>
 
-<h1 align="center">👋 Hello, I'm <span style="color:#FFA500;">Enya Elvis</span> 🚀</h1>
+<h1 align="center">👋🏿 Hello, I'm <span style="color:#FFA500;">Enya Elvis<br> You can call me Elvis</span> 🚀</h1>
 
 <p align="center">
   <strong>Full Stack Web Developer | Backend Engineer | Tech Explorer | ALX Backend ProDev Learner</strong>
@@ -11,7 +11,7 @@
 
 ---
 
-### � Certifications & Badges
+### 🎓 Certifications & Badges
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-yellow?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -51,9 +51,9 @@
   <summary>Click to expand</summary>
   <ul>
     <li>2022: Started ALX Software Engineering Program</li>
-    <li>2023: Built RSN NEWS and Bulk SMS Sender</li>
-    <li>2024: Launched Budget App, completed AWS Certification</li>
-    <li>2025: Working on Telegram Mini App, exploring advanced UI/UX</li>
+        <li>2024: Started professional freelancing</li>
+    <li>2025: Built RSN NEWS and Bulk SMS Sender</li>
+    <li>2025: Working on Fintech SolutionI/UX</li>
     <!-- Add more milestones as needed -->
   </ul>
 </details>
@@ -67,76 +67,62 @@
 
 <!-- Animated particles background using SVG (GitHub markdown compatible) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/particles/main/demo/github.svg" width="100%" alt="Animated Particles Background"/>
-</div>
-
-<div align="center">
   <table>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/><br/>
-        <b>JavaScript</b><br/>
-        <span style="font-size:1.5em; color:#FFD700;">★ ★ ★ ★ ★</span>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/><br/>
-        <b>Node.js</b><br/>
-        <span style="font-size:1.5em; color:#FFD700;">★ ★ ★ ★ ★</span>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React.js"/><br/>
-        <b>React.js</b><br/>
-        <span style="font-size:1.5em; color:#FFD700;">★ ★ ★ ★</span>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/><br/>
-        <b>PHP</b><br/>
-        <span style="font-size:1.5em; color:#FFD700;">★ ★ ★ ★</span>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/><br/>
-        <b>MySQL</b><br/>
-        <span style="font-size:1.5em; color:#FFD700;">★ ★ ★ ★</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/><br/>
-        <b>Python</b><br/>
-        <span style="font-size:1.5em; color:#FFD700;">★ ★ ★ ★</span>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Shell Scripting"/><br/>
-        <b>Shell Scripting</b><br/>
-        <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" title="AWS"/><br/>
-        <b>AWS</b><br/>
-        <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="UI/UX Design"/><br/>
-        <b>UI/UX Design</b><br/>
-        <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" title="SEO"/><br/>
-        <b>SEO</b><br/>
-        <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" title="WordPress"/><br/>
-        <b>WordPress</b><br/>
-        <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40" title="Domain Configuration"/><br/>
-        <b>Domain Config</b><br/>
-        <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
-      </td>
+    <tr><tr>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/><br/>
+    <b>GitHub</b><br/>
+    <span style="font-size:1.5em; color:#FFD700;">★ ★ ★ ★</span>
+  </td>
+  <td align="center">
+    <img src="https://vercel.com/favicon.ico" width="40" title="Vercel"/><br/>
+    <b>Vercel</b><br/>
+    <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
+  </td>
+  <td align="center">
+    📧<br/>
+    <b>Email Config</b><br/>
+    <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
+  </td>
+  <td align="center">
+    <img src="https://seeklogo.com/images/C/cpanel-logo-6A1470E793-seeklogo.com.png" width="40" title="cPanel"/><br/>
+    <b>cPanel</b><br/>
+    <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
+  </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" title="Laravel"/><br/>
+    <b>Laravel</b><br/>
+    <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://ssl.gstatic.com/images/branding/product/2x/google_workspace_512dp.png" width="40" title="Google Workspace"/><br/>
+    <b>Google Workspace</b><br/>
+    <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
+  </td>
+  <td align="center">
+    🛠️<br/>
+    <b>Device Troubleshooting</b><br/>
+    <span style="font-size:1.5em; color:#FFD700;">★ ★ ★ ★</span>
+  </td>
+  <td align="center">
+    💡<br/>
+    <b>Prompt Engineering</b><br/>
+    <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
+  </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Command Line"/><br/>
+    <b>Command Line</b><br/>
+    <span style="font-size:1.5em; color:#FFD700;">★ ★ ★ ★</span>
+  </td>
+  <td align="center">
+    🎨<br/>
+    <b>Image Generation</b><br/>
+    <span style="font-size:1.5em; color:#FFD700;">★ ★</span>
+  </td>
+</tr>
+
       <td></td>
       <td></td>
       <td></td>
