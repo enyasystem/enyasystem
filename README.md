@@ -300,13 +300,28 @@ I'm inspired by **collaboration**, **problem-solving**, and the thrill of turnin
 
 <p align="center">
   <a href="https://github.com/enyasystem/rsn-news">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enyasystem&repo=rsn-news&theme=radical" />
+    <img align="center" 
+         src="https://github-readme-stats.vercel.app/api/pin/?username=enyasystem&repo=rsn-news&theme=radical" />
+    <br/>
+    <em>📰 RSN News – A sleek news platform with admin-auth, cloud-hosted DB, image uploads, and realtime updates.</em>
   </a>
+
+  <br/><br/>
+
   <a href="https://github.com/enyasystem/bulk-sms-sender">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enyasystem&repo=bulk-sms-sender&theme=radical" />
+    <img align="center"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=enyasystem&repo=bulk-sms-sender&theme=radical" />
+    <br/>
+    <em>📤 Bulk SMS Sender – Web app using Africa’s Talking API to send mass SMS with CSV support and live previews.</em>
   </a>
+
+  <br/><br/>
+
   <a href="https://github.com/enyasystem/buddget-app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enyasystem&repo=buddget-app&theme=radical" />
+    <img align="center"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=enyasystem&repo=buddget-app&theme=radical" />
+    <br/>
+    <em>🪙 Buddget App – Personal finance tracker with budgeting, expense tracking, visual summaries & achievement badges.</em>
   </a>
 </p>
 
