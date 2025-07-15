@@ -298,27 +298,32 @@ I'm inspired by **collaboration**, **problem-solving**, and the thrill of turnin
 
 ### 📌 Pinned Repositories
 
-<p align="center">
-  <a href="https://github.com/enyasystem/rsn-news">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enyasystem&repo=rsn-news&theme=radical" />
-    <br/>
-    <span>📰 A dynamic news platform with admin authentication, real-time updates, image upload & MongoDB backend.</span>
-  </a>
-  <br/><br/>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/enyasystem/rsn-news">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=enyasystem&repo=rsn-news&theme=radical" />
+        <br/>
+        <span>📰 A dynamic news platform with admin-auth, real-time updates, image uploads, and MongoDB backend.</span>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/enyasystem/bulk-sms-sender">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=enyasystem&repo=bulk-sms-sender&theme=radical" />
+        <br/>
+        <span>📤 Bulk SMS tool powered by Africa's Talking API. Supports CSV uploads & live previews.</span>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/enyasystem/buddget-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=enyasystem&repo=buddget-app&theme=radical" />
+        <br/>
+        <span>💰 Budget tracking app to manage income, expenses, and savings with visual summaries.</span>
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <a href="https://github.com/enyasystem/bulk-sms-sender">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enyasystem&repo=bulk-sms-sender&theme=radical" />
-    <br/>
-    <span>📤 A bulk SMS tool powered by Africa's Talking API with CSV upload support and live message preview.</span>
-  </a>
-  <br/><br/>
-
-  <a href="https://github.com/enyasystem/buddget-app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enyasystem&repo=buddget-app&theme=radical" />
-    <br/>
-    <span>💰 A personal budget tracking app for managing income, expenses, savings, and financial goals visually.</span>
-  </a>
-</p>
 
 
 ---
