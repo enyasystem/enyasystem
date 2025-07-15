@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://enyasystem.github.io/banner/Enya_Elvis-banner.png" alt="Banner" style="width: 100%; height: auto;" />
+<!--   <img src="https://enyasystem.github.io/banner/Enya_Elvis-banner.png" alt="Banner" style="width: 100%; height: auto;" /> -->
 
 </p>
 
