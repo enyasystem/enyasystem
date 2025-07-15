@@ -3,7 +3,7 @@
 
 </p>
 
-<h1 align="center">👋🏿 Hello, I'm <span style="color:#FFA500;">Enya Elvis<br> You can call me Elvis</span> 🚀</h1>
+<h1 align="center">👋🏿 Hello, I'm <span style="color:#FFA500;">Enya Elvis<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You can call me Elvis</span> 🚀</h1>
 
 <p align="center">
   <strong>Full Stack Web Developer | Backend Engineer | Tech Explorer | ALX Backend ProDev Learner</strong>
@@ -68,7 +68,72 @@
 <!-- Animated particles background using SVG (GitHub markdown compatible) -->
 <div align="center">
   <table>
-    <tr><tr>
+    <tr>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/><br/>
+    <b>PHP</b><br/>
+    <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
+  </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/><br/>
+    <b>JavaScript</b><br/>
+    <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
+  </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React.js"/><br/>
+    <b>React.js</b><br/>
+    <span style="font-size:1.5em; color:#FFD700;">★ ★</span>
+  </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/><br/>
+    <b>Node.js</b><br/>
+    <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
+  </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/><br/>
+    <b>MySQL</b><br/>
+    <span style="font-size:1.5em; color:#FFD700;">★ ★ ★ ★</span>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/><br/>
+    <b>Python</b><br/>
+    <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
+  </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Shell Scripting"/><br/>
+    <b>Shell Scripting</b><br/>
+    <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
+  </td>
+  <td align="center">
+    🖥️<br/>
+    <b>Backend Dev</b><br/>
+    <span style="font-size:1.5em; color:#FFD700;">★ ★ ★ ★</span>
+  </td>
+  <td align="center">
+    🐞<br/>
+    <b>Debugging</b><br/>
+    <span style="font-size:1.5em; color:#FFD700;">★ ★ ★ ★</span>
+  </td>
+  <td>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Shell Scripting"/><br/>
+    <b>Shell Scripting</b><br/>
+    <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
+  </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" title="SEO"/><br/>
+    <b>SEO</b><br/>
+    <span style="font-size:1.5em; color:#FFD700;">★ ★ ★</span>
+  </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" title="WordPress"/><br/>
+    <b>WordPress</b><br/>
+    <span style="font-size:1.5em; color:#FFD700;">★ ★ ★ ★</span>
+  </td>
+</tr>
+
+<tr>
   <td align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/><br/>
     <b>GitHub</b><br/>
@@ -123,10 +188,7 @@
   </td>
 </tr>
 
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
+     
   </table>
 </div>
 
