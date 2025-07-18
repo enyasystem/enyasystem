@@ -16,7 +16,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-yellow?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/ALX%20Graduate-blueviolet?style=for-the-badge&logo=alx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Coursera%20Certified-Data%20Science-blue?style=for-the-badge&logo=coursera&logoColor=white"/>
   <!-- Add more badges as needed -->
 </p>
 
