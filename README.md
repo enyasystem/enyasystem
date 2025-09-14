@@ -2,7 +2,7 @@
 <!--   <img src="https://enyasystem.github.io/banner/Enya_Elvis-banner.png" alt="Banner" style="width: 100%; height: auto;" /> -->
 
 </p>
-<h1 align="center">👋🏿 Hello, I'm <span style="color:#FFA500;">Enya Elvis<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You can call me Elvis</span> 🚀</h1>
+<h1 align="center">👋🏿 Hello, I'm <span style="color:#FFA500;">Enya Elvis<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 🚀</h1>
 
 <p align="center">
   <strong>Full Stack Web Developer | Backend Engineer | Tech Explorer | ALX Backend ProDev Learner</strong>
