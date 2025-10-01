@@ -127,7 +127,7 @@
   <td align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" title="WordPress"/><br/>
     <b>WordPress</b><br/>
-    <span style="font-size:1.5em; color:#FFD700;">★ ★ ★ ★</span>
+    <span style="font-size:1.5em; color:#FFD700;">★  ★ ★</span>
   </td>
 </tr>
 
