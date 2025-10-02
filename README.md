@@ -231,6 +231,7 @@ I'm inspired by **collaboration**, **problem-solving**, and the thrill of turnin
   <img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/SEO-%23000000.svg?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  
 </p>
 
 ---
