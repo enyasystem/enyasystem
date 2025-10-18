@@ -1,25 +1,14 @@
 # Enya Elvis
 
-The leading open-source full stack & backend developer
 
----
-
-<p align="center">
-  <img src="https://enyasystem.github.io/banner/Enya_Elvis-banner.png" alt="Banner" style="width: 100%; height: auto;" />
-</p>
-
-<p align="center">
-  <strong>1k+ followers</strong> · <a href="https://enya-elvis.vercel.app">Portfolio</a> · <a href="https://twitter.com/enyasystem">@enyasystem</a> · <a href="https://www.linkedin.com/in/enyaelvis">LinkedIn</a>
-</p>
-
----_____  _   _  __   _ 
-| ____| | \ | ||  \ | |
-| |_   |  \| ||   \| |
-|  _|  | |\ | | |\ | |
-| |___ | | \| | | \| |
-|_|___|   |_|  \_||_|  \_|
----
-
+```text
+ _____ _   ___   __ _      _____ _ __     _____ ____  
+| ____| \ | \ \ / // \    | ____| |\ \   / /_ _/ ___| 
+|  _| |  \| |\ V // _ \   |  _| | | \ \ / / | |\___ \ 
+| |___| |\  | | |/ ___ \  | |___| |__\ V /  | | ___) |
+|_____|_| \_| |_/_/   \_\ |_____|_____\_/  |___|____/ 
+```
+                                                      
 ## 👤 About Me
 
 | Field         | Details                                                      |
