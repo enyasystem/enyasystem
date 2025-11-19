@@ -30,15 +30,10 @@ I enjoy backend engineering, system design, API development, and real-world app 
 
 ---
 
-## 🎨 Skills & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,mysql,react,ts,python,bash,git,github,vscode,linux&theme=light" />
-</p>
 
 ---
 
-## 🛠 Technology Badges
+## 🛠 Tools
 
 <p>
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge" />
