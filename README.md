@@ -23,7 +23,7 @@ I enjoy backend engineering, system design, API development, and real-world app 
 | **Name** | Enya Elvis |
 | **Role** | Full-Stack Web Developer • Backend Engineer |
 | **Tech Stack** | PHP, JavaScript, Node.js, React.js, MySQL, Python, Bash |
-| **Portfolio** | [enya-elvis.vercel.app](https://enya-elvis.vercel.app) |
+| **Portfolio** | [enya-elvis.vercel.app](https://enyaelvis.vercel.app) |
 | **LinkedIn** | [linkedin.com/in/enyaelvis](https://linkedin.com/in/enyaelvis) |
 | **Twitter** | [@enyasystem](https://twitter.com/enyasystem) |
 | **GitHub** | [github.com/enyasystem](https://github.com/enyasystem) |
